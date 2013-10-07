@@ -1,0 +1,18 @@
+
+Controlling Measurement Equipment with Python and SCPI via VXI-11 and USBTMC
+----------------------------------------------------------------------------
+
+Introduction to controlling test and measurement equipment from Python on Linux
+via VXI-11 and USBTMC. Equipment used in the presentation: RIGOL DG1022 and
+RIGOL DS2072. Examples include sampling and decoding a single frame from a PAL
+video signal.
+
+Watch on Youtube:
+http://youtu.be/a0VKY9klUjQ
+
+Discuss on Redit:
+http://redd.it/1o5f8h
+
+Files on GitHub:
+https://github.com/eevidtron/eevt002
+
